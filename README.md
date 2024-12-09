@@ -1,9 +1,9 @@
 # COMP.SE.200 Software Testing - Project
 
-[![Coverage Status](https://coveralls.io/repos/github/saadzahid66/e-commerce-store/badge.svg?branch=master)](https://coveralls.io/github/saadzahid66/e-commerce-store?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/saadzahid66/e-commerce-store/badge.svg?branch=main)](https://coveralls.io/github/saadzahid66/e-commerce-store?branch=main)
 
 # How To Run Tests
-ou must have Node.js and NPM installed in your system
+You must have Node.js and NPM installed in your system
 
 ## Initialize
 After cloning the repo, Run this command 
