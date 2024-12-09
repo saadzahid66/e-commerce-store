@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+# Environment files
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# npm cache directory
+.npm/
+
+# Testing
+*.lcov
+
+# IDE/editor files
+.vscode/
+
+# Package locks
+package-lock.json
